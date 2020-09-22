@@ -11,6 +11,7 @@ Our ambition is to demonstrate:
   * DNS in a decentralized way (i.e. GNUnet)
   * PKI for an ad-hoc SSL
   * search engine (i.e. yacy)
+  * personal homepage
   * Messaging with familiar mobile phone apps (i.e. mattermost, mastodon, element.io)
   * Money transfers (i.e. Blockchain-based)
   * Wikipedia mirror (pre-downloaded [offline version](https://en.wikipedia.org/wiki/Wikipedia:Database_download))
