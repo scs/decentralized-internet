@@ -10,6 +10,7 @@ Our ambition is to demonstrate:
   * WLAN mesh network among consumer devices
   * DNS in a decentralized way (i.e. GNUnet)
   * PKI for an ad-hoc SSL
+  * search engine (i.e. yacy)
   * Messaging with familiar mobile phone apps (i.e. mattermost, mastodon, element.io)
   * Money transfers (i.e. Blockchain-based)
  
