@@ -13,6 +13,7 @@ Our ambition is to demonstrate:
   * search engine (i.e. yacy)
   * Messaging with familiar mobile phone apps (i.e. mattermost, mastodon, element.io)
   * Money transfers (i.e. Blockchain-based)
+  * Wikipedia mirror (pre-downloaded [offline version](https://en.wikipedia.org/wiki/Wikipedia:Database_download))
  
 To be based on available open-source tools.
   
